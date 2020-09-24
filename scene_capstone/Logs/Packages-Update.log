@@ -1,5 +1,5 @@
 
-=== Thu Sep 17 12:45:59 2020
+=== Thu Sep 24 19:33:42 2020
 
 Packages were changed.
 Update Mode: mergeDefaultDependencies
@@ -43,11 +43,3 @@ The following packages were added:
   com.unity.textmeshpro@2.1.1
   com.unity.timeline@1.2.16
   com.unity.ugui@1.0.0
-
-=== Sat Sep 19 15:28:59 2020
-
-Packages were changed.
-Update Mode: mergeDefaultDependencies
-
-The following packages were added:
-  com.unity.render-pipelines.universal@7.3.1
