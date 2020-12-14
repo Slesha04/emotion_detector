@@ -8,9 +8,17 @@ encountered Issued with git LFS when pushing the repo. However, project is avala
 
 Screenshots of the scene :
 
-
+https://drive.google.com/drive/folders/1RQQhCJsk0w9EAJ6LW5zEXpynVCnsp79L?usp=sharing
 
 Created in Unity 
 
 List of Assets used :
+All Sky 
+Garden Flower and Herbs 
+Grass Flower
+Rocks and Boulders 2
+Standard Assets 
+Steam VR
+Stylize water
+Terrain Texture
 
